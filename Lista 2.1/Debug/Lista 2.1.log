@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+C:\Users\loren\OneDrive\Área de Trabalho\Processamento grafico\PG2021-2-main\HelloTriangle\Exercicio 10\Shader.h(42,40): warning C4101: 'e': variável local não referenciada
+C:\Users\loren\OneDrive\Área de Trabalho\Processamento grafico\PG2021-2-main\HelloTriangle\Lista 2.1\Origem.cpp(208,2): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+  Lista 2.1.vcxproj -> C:\Users\loren\OneDrive\Área de Trabalho\Processamento grafico\PG2021-2-main\HelloTriangle\Debug\Lista 2.1.exe
